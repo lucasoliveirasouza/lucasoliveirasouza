@@ -1,5 +1,6 @@
-### Hi there 👋
+### Olá 👋
 
+## Um pouco sobre meu repositório:
 <div>
 <a href="https://github.com/lucasoliveirasouza">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirasouza&layout=compact&langs_count=7&theme=dracula"/>
