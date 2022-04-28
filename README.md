@@ -1,5 +1,7 @@
 ## Olá 👋
 
+### Me Chamo Lucas e sou estudante do curso de Engenharia de Software na UFG.
+
 ### Um pouco sobre meu repositório:
 <div>
 <a href="https://github.com/lucasoliveirasouza">
