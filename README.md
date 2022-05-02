@@ -1,14 +1,20 @@
-## Olá 👋
+ #### Sobre:
 
-Me chamo Lucas e sou estudante do curso de Engenharia de Software na UFG.
+* Me chamo Lucas, tenho 23 anos e moro no estado de Goiás;
+* Estou no 7° período do curso de Engenharia de Software na UFG;
+* Trabalho como desenvolvedor na empresa Porto Belo Engenharia;
 
+
+---
  #### Um pouco sobre meu repositório:
 <div>
 <a href="https://github.com/lucasoliveirasouza">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirasouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-  #### Contatos:
+ 
+---
+#### Contatos:
 
 <div>
 <a href="https://instagram.com/lucas.olisouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
