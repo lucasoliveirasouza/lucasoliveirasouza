@@ -20,7 +20,7 @@
 <a href="https://github.com/lucasoliveirasouza">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveirasouza&layout=compact&langs_count=7&theme=dracula"/>
  <a href="https://github.com/lucasoliveirasouza">
-<img height="150em" width="220em" src="https://github-readme-stats.vercel.app/api?username=lucasoliveirasouza&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
+<img height="150em" width="350em" src="https://github-readme-stats.vercel.app/api?username=lucasoliveirasouza&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=9400D3&bg_color=1d1f21&hide=contribs,issues,prs"/>
 </a>
 </div>
 
