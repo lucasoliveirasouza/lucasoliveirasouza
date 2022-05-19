@@ -24,7 +24,6 @@
 </a>
 </div>
 
-
  
  ---
  #### Ferramentas e tecnologias:
