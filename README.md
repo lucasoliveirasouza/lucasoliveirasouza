@@ -10,7 +10,7 @@
 ---
 #### Sobre:
 
-* Me chamo Lucas, tenho 23 anos e moro no estado de Goiás;
+* Me chamo Lucas, tenho 23 anos em Goiânia/Trindade;
 * Estou no 7° período do curso de Engenharia de Software na UFG;
 * Trabalho como desenvolvedor na empresa Porto Belo Engenharia;
 
