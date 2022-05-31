@@ -1,14 +1,13 @@
 
 
 
-<div align="center">
 ```yaml
 👤 Name: Lucas Oliveira;
 📍 Living: Trindade - GO, Brazil;
 📚 Schooling: Bachelor of Software Engineering at UFG;
 💼 Work: Developer at Porto Belo Engenharia;
 ```
-</div>
+
 
 <br/>
 <div align="center">
