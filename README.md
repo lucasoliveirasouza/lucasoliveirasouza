@@ -2,8 +2,8 @@
 
 
 ```yaml
-👤 Name: Lucas Oliveira;
-📍 Living: Trindade - GO, Brazil;
+👤 Name: Lucas Oliveira de Souza;
+📍 Living: Trindade-GO, Brazil;
 📚 Schooling: Bachelor of Software Engineering at UFG;
 💼 Work: Developer at Porto Belo Engenharia;
 ```
