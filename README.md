@@ -4,8 +4,8 @@
 ```yaml
 👤 Lucas Oliveira de Souza;
 📍 Trindade-GO, Brazil;
-📚 Software Engineering - UFG;
-💼 Developer at Porto Belo Engenharia;
+📚 Software Engineer - UFG;
+💼 Developer at Renapsi;
 ```
 
 
